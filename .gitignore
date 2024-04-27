@@ -2,3 +2,4 @@ minecraft/*
 textures/*
 *.csv
 *.pkl
+*-model*
